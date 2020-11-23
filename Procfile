@@ -1,1 +1,1 @@
-node sharder.js
+worker node sharder
